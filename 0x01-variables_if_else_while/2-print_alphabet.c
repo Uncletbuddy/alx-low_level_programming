@@ -1,19 +1,19 @@
 #include <stdio.h>
-/** 
- * int main - Entry point
- * Description: Alphabet on smakk leters
- * Return (0)
+/**
+ * main - Entry point
+ * Description: Alphabet on small leters
+ * Return: (0)
  */
 
-int main
+int main(void)
 {
-	init n  = a;
+	char n = 'a';
 
-	while(n <= z)
-	putchar ("n\n");
-	n++
-	
-	putchar("\n");
-
-	return (0)
+	while (n <= 'z')
+	{
+	putchar(n);
+	n++;
+	}
+	putchar('\n');
+	return (0);
 }
