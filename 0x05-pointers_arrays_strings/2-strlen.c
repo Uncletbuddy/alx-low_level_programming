@@ -2,15 +2,15 @@
 #include <stdio.h>
 
 /**
- * int _strlen - length of a string
- * @s: Parameter used
- * Description: discovering the length of a string
+ * _strlen - length of a string
+ * @s: Parameter used in discovering the length of a string
  *
  * Return: always 0.
  */
 
-int _strlen(char *s)
+_strlen(char *s)
 {
+
 	int length = 0;
 
 	while (*s != '\0')
