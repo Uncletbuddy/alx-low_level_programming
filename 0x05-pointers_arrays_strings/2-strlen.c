@@ -3,6 +3,8 @@
 
 /**
  * int _strlen - length of a string
+ * @s: Parameter used
+ * Description: discovering the length of a string
  *
  * Return: always 0.
  */
@@ -17,5 +19,5 @@ int _strlen(char *s)
 		s++;
 	}
 
-	return length;
+	return (length);
 }
