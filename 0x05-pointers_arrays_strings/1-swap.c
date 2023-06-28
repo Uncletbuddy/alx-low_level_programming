@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * swap_int: swapping two file
+ * swap_int - swapping two file
  * @a: first parameter
  * @b: second parameter
  *
