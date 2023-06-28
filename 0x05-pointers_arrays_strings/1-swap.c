@@ -5,7 +5,7 @@
  * swap_int: swapping two file
  * @a: first parameter
  * @b: second parameter
- * 
+ *
  * Return: always 0.
  */
 
