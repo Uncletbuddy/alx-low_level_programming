@@ -1,8 +1,9 @@
 #include "main.h"
 /**
  * _islower - detect lowercase and uppercase
- * Descriptio: use -putchar to print
  *
+ * Descriptio: use -putchar to print
+ * @c: parameter defined
  * Retunr: (1) if c is lower otherwise (0)
  *
  */
