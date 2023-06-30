@@ -4,7 +4,7 @@
  *
  * Descriptio: use -putchar to print
  * @c: parameter defined
- * Retunr: (1) if c is lower otherwise (0)
+ * Return: (1) if c is lower otherwise (0)
  *
  */
 
