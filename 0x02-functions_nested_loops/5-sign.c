@@ -1,12 +1,16 @@
 #include "main.h"
 /**
  * print_sign - used to print sign of a value
+ * Description: n will be used with condition
  * @n: parameter defined
  * Return: (0) or (1) depending
  */
 
 int print_sign(int n)
 {
+	int negative = -1;
+	char ch = (char) negative;
+
 	if (n > 0)
 	{
 		_putchar('+');
@@ -20,6 +24,6 @@ int print_sign(int n)
 	else
 	{
 		_putchar('-');
-		return (48);
+		return (ch);
 	}
 }
